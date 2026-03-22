@@ -10,7 +10,7 @@
 
 substitutions:
   # Default name
-  name: "2changeme-smart-plug-v3"
+  name: "2changeme-smart-plug"
   # Default friendly name   
   friendly_name: "2changeme Smart Plug"
   # Allows ESP device to be automatically linked to an 'Area' in Home Assistant. Typically used for areas such as 'Lounge Room', 'Kitchen' etc  
